@@ -183,6 +183,10 @@ header{
 
 .nav__link:hover{
     color: var(--clr-accent);
+    letter-spacing: 6px;
+    font-size: 2em;
+    transition: 0.5s;
+
 }
 
 .nav-toggle{
